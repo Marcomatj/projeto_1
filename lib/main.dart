@@ -5,6 +5,7 @@ void main() {
   runApp(MaterialApp(
     title: "Primeiro App",
     home: Home(),
+    debugShowCheckedModeBanner: false,
   ));
 }
 
